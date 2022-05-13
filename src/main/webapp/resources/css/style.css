@@ -1,0 +1,22 @@
+#page {
+	width: 80%;
+	height:500px;
+	margin: auto;
+	background-color: blue;
+}
+
+
+#content {
+	height:80%;
+	background-color: orange;
+}
+
+#header {
+	height:10%;
+	background-color: red;
+}
+
+#footer {
+	height:10%;
+	background-color: green;
+}
